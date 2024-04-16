@@ -3,6 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://res.cloudinary.com/dvgcwuo68/image/upload/v1713274802/giphy-ezgif.com-crop_a8mbwn.gif">
 <br>
+
 - 🌱 I’m currently learning **React**
 
 - 🔭 I’m currently working on **WesBos Javascript 30**
