@@ -12,6 +12,8 @@
 
 - 📫 How to reach me **ahmad.bougacha@gmail.com**
 
+- 🖼️ Check out my [portfolio](https://troopl.com/ahmedbouguacha)
+
 <br>
 
 <h3 align="left">My bootcamp projects:</h3>
