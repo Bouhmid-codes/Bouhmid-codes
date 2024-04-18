@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed</h1>
 <h3 align="center">An aspiring full stack developer</h3>
-
 <img align="right" alt="coding" width="400" src="https://res.cloudinary.com/dvgcwuo68/image/upload/v1713274802/giphy-ezgif.com-crop_a8mbwn.gif">
 <br>
 
